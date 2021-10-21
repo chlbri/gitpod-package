@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "GitPod for Typescript",
   "author": "chlbri <bri_lvi@icloud.com>",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "license": "MIT",
   "private": true,
   "scripts": {
